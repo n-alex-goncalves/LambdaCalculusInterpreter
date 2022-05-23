@@ -1,0 +1,72 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  min-height: 100%;
+  font-size: large;
+}
+
+textarea { 
+  font-size: 1px; 
+}
+
+.quarter {
+  height: 100%;
+  float: left;
+}
+
+.left {
+  width: 65%;
+}
+
+.right {
+  width: 35%;
+}
+
+.contents {
+  height: 100%;
+  width: 100%;
+}
+
+.terminal {
+  height: 95%;
+  overflow: hidden;
+  padding-top: 0px;
+  --size: 1.55;
+}
+
+.container {
+  height: 100%;
+}
+
+.title {
+  padding: 10px;
+  padding-bottom: 5px;
+}
+
+.title#lambdatitle {
+  font-family: monospace;
+  background-color: black;
+  color: #aaa;
+}
+
+code {
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #a1a1a1;
+  padding: 2px;
+  font-size: 105%;
+}
+
+/**
+
+@media screen and (max-width:768px) {
+	.right {
+    width: 0%;
+  }
+  .left {
+    width: 100%;
+  }
+}
+
+**/
+
