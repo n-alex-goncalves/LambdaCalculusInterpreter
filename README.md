@@ -1,4 +1,4 @@
-# Lambda-Calculus-Interpreter
+# Lambda Calculus Interpreter
 
 [This is a single-line interpreter for the Lambda Calculus](https://nunoagoncalves.github.io/Lambda-Calculus-Interpreter/)
 
