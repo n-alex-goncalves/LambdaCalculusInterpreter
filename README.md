@@ -1,6 +1,6 @@
 # Lambda Calculus Interpreter
 
-[This is a single-line interpreter for the Lambda Calculus](https://nunoagoncalves.github.io/Lambda-Calculus-Interpreter/)
+[This is a single-line interpreter for the Lambda Calculus](https://n-alex-goncalves.github.io/Lambda-Calculus-Interpreter/)
 
 - Built in the **HTML/CSS/JavaScripts**
 - User Interface built with **Bootstrap** and **JQuery**
@@ -11,10 +11,10 @@ The interpreter uses an applicative-order evaluation strategy to perform beta re
 The interpreter was created by considering the Lambda Calculus system as a tree and parsing the tree in iterative steps to find the beta normal form of the expression.
 
 ## Reduces lambda terms succesfully  
-![](https://github.com/NunoAGoncalves/Lambda-Calculus-Interpreter/blob/main/interpreterGif.gif)
+![](https://github.com/n-alex-goncalves/Lambda-Calculus-Interpreter/blob/main/interpreterGif.gif)
 
 ## Tested with over 80 lambda expressions from various books and websites  
-![](https://github.com/NunoAGoncalves/Lambda-Calculus-Interpreter/blob/main/testcasesGif.gif)
+![](https://github.com/n-alex-goncalves/Lambda-Calculus-Interpreter/blob/main/testcasesGif.gif)
 
 # SKI Combinators & Boolean Logic Notation
 
