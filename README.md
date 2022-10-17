@@ -1,14 +1,14 @@
 # Lambda Calculus Interpreter
 
-[This is a single-line interpreter for the Lambda Calculus](https://n-alex-goncalves.github.io/Lambda-Calculus-Interpreter/)
+[This is a single-line interpreter for the Lambda Calculus system](https://n-alex-goncalves.github.io/Lambda-Calculus-Interpreter/)
 
 - Built in the **HTML/CSS/JavaScripts**
 - User Interface built with **Bootstrap** and **JQuery**
 - Tested using **Jest** and **Node.JS**
 
-The interpreter uses an applicative-order evaluation strategy to perform beta reduction. The interpreter can reduce complicated Lambda expressions, and it can also simulate SKI combinators and boolean logic (see notation at bottom).
+The interpreter uses an applicative-order evaluation strategy to perform beta reduction on a lambda term. The interpreter can reduce complicated lambda expressions and also simulate SKI combinators and boolean logic (see notation at bottom).
 
-The interpreter was created by considering the Lambda Calculus system as a tree and parsing the tree in iterative steps to find the beta normal form of the expression.
+The interpreter was built by considering the lambda calculus system as a tree-like data structure. The program parses the tree in iterative steps to find the beta normal form of the lambda expression.
 
 ## Reduces lambda terms succesfully  
 ![](https://github.com/n-alex-goncalves/Lambda-Calculus-Interpreter/blob/main/interpreterGif.gif)
