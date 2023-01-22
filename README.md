@@ -10,7 +10,7 @@ The interpreter uses an applicative-order evaluation strategy to perform beta re
 
 The interpreter was built by considering the lambda calculus system as a tree-like data structure. The program parses the tree in iterative steps to find the beta normal form of the lambda expression.
 
-## Reduces lambda terms succesfully  
+## Demo
 ![](https://github.com/n-alex-goncalves/Lambda-Calculus-Interpreter/blob/main/interpreterGif.gif)
 
 ## Tested with over 80 lambda expressions from various books and websites  
