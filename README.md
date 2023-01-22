@@ -1,6 +1,6 @@
 # Lambda Calculus Interpreter
 
-[This is a single-line interpreter for the Lambda Calculus system](https://n-alex-goncalves.github.io/Lambda-Calculus-Interpreter/)
+[This is a single-line interpreter for the lambda calculus system](https://n-alex-goncalves.github.io/Lambda-Calculus-Interpreter/)
 
 - Built in the **HTML/CSS/JavaScripts**
 - User Interface built with **Bootstrap** and **JQuery**
