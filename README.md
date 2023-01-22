@@ -1,4 +1,4 @@
-# Lambda Calculus Interpreter
+# Lambda Calculus Interpreter :computer:
 
 [This is a single-line interpreter for the lambda calculus system](https://n-alex-goncalves.github.io/Lambda-Calculus-Interpreter/)
 
